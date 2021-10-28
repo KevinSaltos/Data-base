@@ -1,2 +1,2 @@
 # Data-base
-Practice with PostgreSQL
+Practice with Postgres
